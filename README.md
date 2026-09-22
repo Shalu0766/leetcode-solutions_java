@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0136-single-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0268-missing-number) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0344-reverse-string) |
