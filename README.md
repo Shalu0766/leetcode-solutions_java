@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0941-valid-mountain-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3525-find-x-value-of-array-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3525-find-x-value-of-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0268-missing-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3525-find-x-value-of-array-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3525-find-x-value-of-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0020-valid-parentheses) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
