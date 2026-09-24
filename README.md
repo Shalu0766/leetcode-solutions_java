@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0035-search-insert-position) |
 | [0057-insert-interval](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0057-insert-interval) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0344-reverse-string) |
