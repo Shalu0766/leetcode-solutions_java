@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0057-insert-interval) |
 | [0136-single-number](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0162-find-peak-element) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0268-missing-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0048-rotate-image) |
 | [0566-reshape-the-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0661-image-smoother) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
