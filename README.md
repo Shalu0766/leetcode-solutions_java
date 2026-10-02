@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0896-monotonic-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0941-valid-mountain-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
