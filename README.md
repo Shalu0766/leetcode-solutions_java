@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0661-image-smoother) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Divide and Conquer
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0922-sort-array-by-parity-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Counting
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0922-sort-array-by-parity-ii) |
 ## Binary Search
 |  |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
