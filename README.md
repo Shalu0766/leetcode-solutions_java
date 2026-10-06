@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0038-count-and-say) |
 | [0344-reverse-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Geometry
 |  |
 | ------- |
@@ -186,12 +188,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0682-baseball-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Segment Tree
 |  |
 | ------- |
