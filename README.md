@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0896-monotonic-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0724-find-pivot-index) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Sliding Window
 |  |
