@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0977-squares-of-a-sorted-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
