@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0844-backspace-string-compare) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0867-transpose-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
