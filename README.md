@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0344-reverse-string) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0344-reverse-string) |
