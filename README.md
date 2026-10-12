@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3525-find-x-value-of-array-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0268-missing-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1122-relative-sort-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1122-relative-sort-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Geometry
 |  |
 | ------- |
