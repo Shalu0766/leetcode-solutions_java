@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0189-rotate-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0217-contains-duplicate) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0344-reverse-string) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0032-longest-valid-parentheses) |
+| [0139-word-break](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0139-word-break) |
 | [0678-valid-parenthesis-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -290,4 +294,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
