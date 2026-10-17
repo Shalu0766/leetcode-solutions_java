@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0162-find-peak-element) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0139-word-break) |
 | [0678-valid-parenthesis-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
