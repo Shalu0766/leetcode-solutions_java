@@ -1,14 +1,11 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        Map<Integer, Integer> count = new HashMap<>();
-        int k = 0;
-        for(int num : nums){
-            count.put(num, count.getOrDefault(num, 0) + 1);
-            if(count.get(num) <= 2){
-                nums[k] = num;
-                k++;
+        int i = 0;
+        for (int n : nums) {
+            if (i < 2 || n > nums[i - 2]) {
+                nums[i++] = n;
             }
         }
-        return k;
+        return i;
     }
 }
