@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0495-teemo-attacking) |
+| [0506-relative-ranks](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0661-image-smoother) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0506-relative-ranks) |
 | [0905-sort-array-by-parity](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0977-squares-of-a-sorted-array) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0506-relative-ranks) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Stack
 |  |
