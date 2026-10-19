@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0661-image-smoother) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0844-backspace-string-compare) |
