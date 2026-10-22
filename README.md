@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0997-find-the-town-judge) |
 | [1051-height-checker](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0997-find-the-town-judge](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0997-find-the-town-judge) |
 | [1122-relative-sort-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1122-relative-sort-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -395,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0463-island-perimeter) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
