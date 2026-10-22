@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0883-projection-area-of-3d-shapes) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0139-word-break) |
 | [0678-valid-parenthesis-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0746-min-cost-climbing-stairs) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
