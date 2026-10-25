@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1408-string-matching-in-an-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1408-string-matching-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1408-string-matching-in-an-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1408-string-matching-in-an-array) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2409-count-days-spent-together](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3498-reverse-degree-of-a-string) |
@@ -435,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0944-delete-columns-to-make-sorted) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
