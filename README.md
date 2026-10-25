@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0661-image-smoother) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0977-squares-of-a-sorted-array) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0680-valid-palindrome-ii) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
