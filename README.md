@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0941-valid-mountain-array) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0997-find-the-town-judge) |
 | [1051-height-checker](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1051-height-checker) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2409-count-days-spent-together](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2409-count-days-spent-together) |
@@ -429,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0739-daily-temperatures) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
