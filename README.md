@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0073-set-matrix-zeroes) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0125-valid-palindrome) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0139-word-break) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0232-implement-queue-using-stacks) |
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0739-daily-temperatures) |
 ## Longest Increasing Subsequence
