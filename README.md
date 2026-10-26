@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0303-range-sum-query-immutable) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0239-sliding-window-maximum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Matrix
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0506-relative-ranks) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Stack
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0239-sliding-window-maximum) |
 ## Counting Sort
 |  |
 | ------- |
@@ -472,4 +476,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
