@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0605-can-place-flowers) |
+| [0622-design-circular-queue](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0622-design-circular-queue) |
 | [0661-image-smoother](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0682-baseball-game) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0933-number-of-recent-calls) |
 ## Queue
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0933-number-of-recent-calls) |
 ## Counting Sort
 |  |
@@ -500,4 +503,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0901-online-stock-span](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0933-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
