@@ -7,7 +7,7 @@ class Solution {
 
         int[] best = new int[n];  
         Arrays.fill(best, k + 1);
-        PriorityQueue<long[]> heap = new PriorityQueue<>(Arrays::compare); 
+        PriorityQueue<long[]> heap = new PriorityQueue<>(Arrays::compare);  
         heap.add(new long[]{0, 1, 0});
         while (!heap.isEmpty()) {
             long[] s = heap.poll();
