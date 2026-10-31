@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0500-keyboard-row) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0678-valid-parenthesis-string) |
@@ -521,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
