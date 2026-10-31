@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0075-sort-colors) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0169-majority-element) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0217-contains-duplicate) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0205-isomorphic-strings) |
