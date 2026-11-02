@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0495-teemo-attacking) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0905-sort-array-by-parity) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0883-projection-area-of-3d-shapes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1401-circle-and-rectangle-overlapping) |
