@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3525-find-x-value-of-array-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3525-find-x-value-of-array-ii) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0724-find-pivot-index) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2747-count-zero-request-servers](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Matrix
