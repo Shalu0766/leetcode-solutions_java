@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-string-matching-in-an-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1408-string-matching-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1882-process-tasks-using-servers](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0883-projection-area-of-3d-shapes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2409-count-days-spent-together) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0746-min-cost-climbing-stairs) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0724-find-pivot-index) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
