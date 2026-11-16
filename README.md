@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1544-make-the-string-great) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2409-count-days-spent-together) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2747-count-zero-request-servers](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2747-count-zero-request-servers) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
