@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1544-make-the-string-great) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3863-minimum-operations-to-sort-a-string) |
