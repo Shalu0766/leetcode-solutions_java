@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0217-contains-duplicate) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0283-move-zeroes) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0622-design-circular-queue) |
 ## Shortest Path
