@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0387-first-unique-character-in-a-string) |
 | [1267-count-servers-that-communicate](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0402-remove-k-digits) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0933-number-of-recent-calls) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
