@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0883-projection-area-of-3d-shapes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0500-keyboard-row) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0682-baseball-game) |
