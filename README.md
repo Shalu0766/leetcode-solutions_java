@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0997-find-the-town-judge) |
 | [1051-height-checker](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1089-duplicate-zeros) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0883-projection-area-of-3d-shapes) |
+| [0994-rotting-oranges](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
