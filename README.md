@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0997-find-the-town-judge) |
 | [1122-relative-sort-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1122-relative-sort-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2336-smallest-number-in-infinite-set) |
 | [2747-count-zero-request-servers](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0506-relative-ranks) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1882-process-tasks-using-servers](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1882-process-tasks-using-servers) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2336-smallest-number-in-infinite-set) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0933-number-of-recent-calls) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -674,4 +677,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0215-kth-largest-element-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
