@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1408-string-matching-in-an-array) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1544-make-the-string-great) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
