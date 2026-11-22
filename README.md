@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0217-contains-duplicate) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0746-min-cost-climbing-stairs) |
