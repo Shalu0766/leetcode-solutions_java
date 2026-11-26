@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0389-find-the-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0746-min-cost-climbing-stairs) |
