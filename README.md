@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0389-find-the-difference) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/3882-minimum-xor-path-in-a-grid) |
