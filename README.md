@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0268-missing-number) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0119-pascals-triangle-ii) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Prefix Sum
