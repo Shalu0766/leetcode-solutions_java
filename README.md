@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0165-compare-version-numbers) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0042-trapping-rain-water) |
+| [0072-edit-distance](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/Shalu0766/leetcode-solutions_java/tree/master/0139-word-break) |
